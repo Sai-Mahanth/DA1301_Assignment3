@@ -1,2 +1,2 @@
 Learning Git and Bash
-Iam learning how to use Git for version control.
+I am learning how to use Git for version control.
