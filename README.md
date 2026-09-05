@@ -3,11 +3,11 @@
 ## Introduction
 Iam a person who stays quiet.
 ## Interests
--Playing Cricket 
--Watching Anime
+- Playing Cricket 
+- Watching Anime
 ## Interesting thing about Git
 The version control part of it ,the way it saves our changes
 ## Useful Git Command
 **git status** -Whats happening
 ## What I Learned
-Iam learning how Git and Github work together
+I am learning how Git and GitHub work together.
