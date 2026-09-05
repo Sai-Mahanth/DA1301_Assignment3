@@ -6,7 +6,7 @@ Iam a person who stays quiet.
 -Playing Cricket 
 -Watching Anime
 ## Interesting thing about Git
-The version control part of it , the way it saves our changes
+The version control part of it ,the way it saves our changes
 ## Useful Git Command
 **git status** -Whats happening
 ## What I Learned
