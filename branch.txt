@@ -1,2 +1,2 @@
 This file was created on the practice branch.
- Iam learning how branches work in Git 
+I am learning how branches work in Git 
