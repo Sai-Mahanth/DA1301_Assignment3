@@ -1,0 +1,1 @@
+Hi! Iam learning to synchronize commits between Git and GitHub
